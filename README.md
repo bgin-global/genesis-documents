@@ -1,7 +1,7 @@
 Genesis Documents of Blockchain Governance Initiative Network
 -------------------------------------------------------------
 
-This repository contains several documents created on the launch of Blockchain Governance Initiative Network, March 10th, 2020. Please refer to [the press annoucement of the launch](https://bgin.team/press_releases/20200310_press_release_bgin.pdf) or [the presentation describing about it](https://bgin.team/presentations/20200310_BGIN_Declaration.pdf).
+This repository contains several documents created on the launch of Blockchain Governance Initiative Network, March 10th, 2020. Please refer to [the press annoucement of the launch](https://bgin.team/press_releases/20200310_press_release_bgin.pdf), [the presentation describing about it](https://bgin.team/presentations/20200310_BGIN_Declaration.pdf) or [Inaugural Meeting Minutes](./MeetingMinutes/20200309_Minutes_Inaugural_Meeting.pdf).
 
 At this moment we have two documents here:
 - [Genesis.md](./Genesis.md) - The Genesis document
